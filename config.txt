@@ -1,0 +1,6 @@
+owner=329681465329713153
+prefix=/
+game=Mafia City RolePlay
+stayinchannel=true
+songinstatus=false
+token=Njc0OTUwMjI1MjUyODQzNTYw.XlDz6Q.j0TOGdcyVPYh111ZwFZoLlEHZJ4
